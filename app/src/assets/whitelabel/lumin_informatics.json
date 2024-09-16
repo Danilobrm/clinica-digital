@@ -1,0 +1,12 @@
+{
+    "page": {
+      "title": "lumin informatics",
+      "logo": "../assets/logos/lumin_informatics.png"
+    },
+    "colors": {
+      "primary_color": "#2F3855",
+      "secondary_color": "#24293D",
+      "terciary_color": "#F4F4FC",
+    }
+  }
+  

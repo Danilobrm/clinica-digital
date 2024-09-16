@@ -1,0 +1,12 @@
+{
+    "page": {
+      "title": "nexgen solutions",
+      "logo": "../assets/logos/nexgen_solutions.png"
+    },
+    "colors": {
+      "primary_color": "#856FA9",
+      "secondary_color": "#CFC2E2",
+      "terciary_color": "#DFD6E8",
+    }
+  }
+  

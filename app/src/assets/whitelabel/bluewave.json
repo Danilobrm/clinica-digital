@@ -1,0 +1,12 @@
+{
+    "page": {
+      "title": "bluewave",
+      "logo": "../assets/logos/bluewave.png"
+    },
+    "colors": {
+      "primary_color": "#497984",
+      "secondary_color": "#C5CEBD",
+      "terciary_color": "#E8E1D6",
+    }
+  }
+  
